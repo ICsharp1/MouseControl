@@ -1,0 +1,35 @@
+[
+  {
+    "number": 0,
+    "type": "shortcut",
+    "leftX": 0,
+    "topY": 0,
+    "rightX": 2,
+    "bottomY": 2,
+    "keys": [
+      "cmd",
+      "tab"
+    ]
+  },
+  {
+    "number": 1,
+    "type": "shortcut",
+    "leftX": 0,
+    "topY": 960,
+    "rightX": 10,
+    "bottomY": 1080,
+    "keys": [
+      "alt",
+      "tab"
+    ]
+  },
+  {
+    "number": 2,
+    "type": "command",
+    "leftX": 0,
+    "topY": 400,
+    "rightX": 15,
+    "bottomY": 650,
+    "file_to_execute": "window_controller.py"
+  }
+]
